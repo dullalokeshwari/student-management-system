@@ -1,0 +1,4 @@
+# Student Management System Requirements
+
+# SQLite is built-in with Python, so no external installation needed
+sqlite3
